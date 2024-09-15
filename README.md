@@ -1,1 +1,1 @@
-# A-B-Testing-Case-Study
+# AB-Testing-Case-Study
